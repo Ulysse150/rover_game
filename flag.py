@@ -7,7 +7,7 @@ class Flag(Object):
     
     def __init__(self, x, y, largeur, hauteur):
         Object.__init__(self, flag_path, x, y, largeur, hauteur)
-        self.images = self.import_folder('Assets/flag')
+        self.images = self.import_folder('assets/flag')
         
         self.index_max = len(self.images) -1
         self.index = 0
