@@ -6,22 +6,22 @@ title = 'Mars Rover Game'
 
 
 # variables de l'arrière plan
-path_first_background = 'Assets/mars.jpg'
+path_first_background = 'assets/mars.jpg'
  
 
-destination_path = 'Assets/destination.png'
+destination_path = 'assets/destination.png'
 
 #variables du rover
-rover_path = 'Assets/rover.png'
+rover_path = 'assets/rover.png'
 rover_speed = 6
 
-flag_path = 'Assets/flag/0.png'
+flag_path = 'assets/flag/0.png'
 
-rock_path = 'Assets/stone.png'
+rock_path = 'assets/stone.png'
 hauteur_rocher = 80
 
 
-sandstorm_path = 'Assets/tornado.png'
+sandstorm_path = 'assets/tornado.png'
 tornado_speed = 10
 
 
